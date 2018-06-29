@@ -1,0 +1,39 @@
+MENU
+Burger
+4.00
+Lettuce 1 | Bun 1 | Tomato 1 | Meat 1
+Salad
+600.00
+Lettuce 500 | Tomato 500
+Cold Lettuce
+1.00
+Lettuce 1
+Belgian Fries
+2.00
+Potato 3
+
+TABLES
+5
+
+INVENTORY
+Potato
+183
+30
+20
+Lettuce
+24
+20
+20
+Bun
+162
+15
+50
+Tomato
+291
+15
+20
+Meat
+30
+15
+20
+
